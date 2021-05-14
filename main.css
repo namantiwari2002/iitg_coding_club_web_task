@@ -1,0 +1,63 @@
+
+    body {
+        font: 16px Montserrat, sans-serif;
+        line-height: 1.8;
+        background-color : #ffffff;
+        
+      }
+
+      .navbar {
+        margin-bottom: 0;
+        background-color:  #ff8529;
+        z-index: 9999;
+        border: 0;
+        font-size: 12px !important;
+        line-height: 1.42857143 !important;
+        letter-spacing: 4px;
+        border-radius: 0;
+      }
+      .navbar li a, .navbar .navbar-brand {
+        color: #fff !important;
+      }
+      .navbar-nav li a:hover, .navbar-nav li.active a {
+        color: #ff8529 !important;
+        background-color: #fff !important;
+      }
+
+      .intro{
+            padding: 150px 25px;
+            background:url("images/iitg.jpg");
+            background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ffffff;
+
+      }
+
+      .randomtext{
+        
+        padding: 50px 25px;
+        
+      }
+
+      .img_sec{
+        background-image:  url("images/back.jpeg");
+        padding: 50px 25px;
+      
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+      }
+
+      span {
+        background-color: #fff;
+      }
+
+      .footer{
+
+        padding: 50px 25px;
+
+      }
+
+
